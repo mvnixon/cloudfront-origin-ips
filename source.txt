@@ -1,4 +1,4 @@
 source: https://ip-ranges.amazonaws.com/ip-ranges.json
 service: CLOUDFRONT_ORIGIN_FACING
-syncToken: 1792110425
-createDate: 2026-10-16-00-27-05
+syncToken: 1794966425
+createDate: 2026-11-18-01-47-05
